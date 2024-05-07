@@ -14,3 +14,4 @@ Use python along with <testcasename>.py to execute
 Pre-requisites
 
     Playwright
+    Python
