@@ -1,17 +1,13 @@
 # Playwright-UI-Playground-using-Python
 With UI Playground, you can sharpen your UI test automation skills. 
-I am using Playwright with Python to solve these tests. 
+I am using Playwright with Python to attempt these tests. 
 
+Validation of website: http://uitestingplayground.com/
 
-protractorAngularTest
-
-Validation of website http://uitestingplayground.com/
-Run Tests
-
+# To Run Tests
 Use python along with <testcasename>.py to execute
+Example: python .\Dynamic_Table.py
 
-
-Pre-requisites
-
+# Pre-requisites:
     Playwright
     Python
